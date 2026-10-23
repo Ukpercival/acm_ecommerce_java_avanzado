@@ -58,8 +58,8 @@ tasks.named('test') {
 
 sonar {
 	properties {
-		property 'sonar.projectKey', 'wango'
-		property 'sonar.organization', 'wango_team'
+		property 'sonar.projectKey', 'Ukpercival_acm_ecommerce_java_avanzado'
+		property 'sonar.organization', 'wango'
 		property 'sonar.host.url', 'https://sonarcloud.io'
 	}
 }
